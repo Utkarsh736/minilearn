@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Utkarsh736", email = "utkarshtomar736@gmail.com" }
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
     "numpy>=2.4.6",
 ]
