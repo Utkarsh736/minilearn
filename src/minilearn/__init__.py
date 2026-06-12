@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from minilearn!"
+from .linear_models import LinearRegression
+
+__all__ = ["LinearRegression"]
